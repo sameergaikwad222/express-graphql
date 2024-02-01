@@ -1,0 +1,500 @@
+[{
+  "_id": {
+    "$oid": "65baa619675357d111afbd7f"
+  },
+  "id": "r1",
+  "rating": 9,
+  "content": "Amazing gameplay and graphics!",
+  "game_id": "1",
+  "author_id": "a1"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd80"
+  },
+  "id": "r2",
+  "rating": 7,
+  "content": "Good story but some technical issues.",
+  "game_id": "2",
+  "author_id": "a2"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd81"
+  },
+  "id": "r3",
+  "rating": 8,
+  "content": "Incredible open-world experience.",
+  "game_id": "3",
+  "author_id": "a3"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd82"
+  },
+  "id": "r4",
+  "rating": 6,
+  "content": "Decent story, could be better.",
+  "game_id": "4",
+  "author_id": "a4"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd83"
+  },
+  "id": "r5",
+  "rating": 8,
+  "content": "Endless possibilities and creativity in Minecraft.",
+  "game_id": "5",
+  "author_id": "a5"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd84"
+  },
+  "id": "r6",
+  "rating": 9,
+  "content": "Exciting football matches in FIFA 22.",
+  "game_id": "6",
+  "author_id": "a6"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd85"
+  },
+  "id": "r7",
+  "rating": 8,
+  "content": "Great narrative and character development in The Witcher 3.",
+  "game_id": "7",
+  "author_id": "a7"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd86"
+  },
+  "id": "r8",
+  "rating": 7,
+  "content": "Impressive graphics but repetitive gameplay in God of War.",
+  "game_id": "8",
+  "author_id": "a8"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd87"
+  },
+  "id": "r9",
+  "rating": 8,
+  "content": "Thrilling heists and story in GTA V.",
+  "game_id": "9",
+  "author_id": "a9"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd88"
+  },
+  "id": "r10",
+  "rating": 9,
+  "content": "Intense battles and strategy in Call of Duty: Warzone.",
+  "game_id": "10",
+  "author_id": "a10"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd89"
+  },
+  "id": "r11",
+  "rating": 7,
+  "content": "Suspenseful gameplay and story in Among Us.",
+  "game_id": "11",
+  "author_id": "a11"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd8a"
+  },
+  "id": "r12",
+  "rating": 8,
+  "content": "Relaxing island life and creativity in Animal Crossing: New Horizons.",
+  "game_id": "12",
+  "author_id": "a12"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd8b"
+  },
+  "id": "r13",
+  "rating": 9,
+  "content": "Impressive graphics and superhero action in Spider-Man: Miles Morales.",
+  "game_id": "13",
+  "author_id": "a13"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd8c"
+  },
+  "id": "r14",
+  "rating": 7,
+  "content": "Intense multiplayer battles in Destiny 2.",
+  "game_id": "14",
+  "author_id": "a14"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd8d"
+  },
+  "id": "r15",
+  "rating": 8,
+  "content": "Epic battles and building in Fortnite.",
+  "game_id": "15",
+  "author_id": "a15"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd8e"
+  },
+  "id": "r16",
+  "rating": 9,
+  "content": "Exciting sci-fi battles in Halo Infinite.",
+  "game_id": "16",
+  "author_id": "a16"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd8f"
+  },
+  "id": "r17",
+  "rating": 7,
+  "content": "War-themed action in Battlefield V.",
+  "game_id": "17",
+  "author_id": "a17"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd90"
+  },
+  "id": "r18",
+  "rating": 8,
+  "content": "Team-based shooter with unique characters in Overwatch.",
+  "game_id": "18",
+  "author_id": "a18"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd91"
+  },
+  "id": "r19",
+  "rating": 9,
+  "content": "Remake with stunning graphics and nostalgic moments in Final Fantasy VII Remake.",
+  "game_id": "19",
+  "author_id": "a19"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd92"
+  },
+  "id": "r20",
+  "rating": 7,
+  "content": "Strategic battles and diverse champions in League of Legends.",
+  "game_id": "20",
+  "author_id": "a20"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd93"
+  },
+  "id": "r21",
+  "rating": 8,
+  "content": "Realistic football experience in Madden NFL 21.",
+  "game_id": "21",
+  "author_id": "a21"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd94"
+  },
+  "id": "r22",
+  "rating": 7,
+  "content": "Epic ancient Greek adventures in Assassin's Creed Odyssey.",
+  "game_id": "22",
+  "author_id": "a22"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd95"
+  },
+  "id": "r23",
+  "rating": 8,
+  "content": "Basketball simulation with realistic gameplay in NBA 2K21.",
+  "game_id": "23",
+  "author_id": "a23"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd96"
+  },
+  "id": "r24",
+  "rating": 7,
+  "content": "Tactical shooter with intense matches in Tom Clancy's Rainbow Six Siege.",
+  "game_id": "24",
+  "author_id": "a24"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd97"
+  },
+  "id": "r25",
+  "rating": 9,
+  "content": "Pokémon adventure with diverse creatures in Sword and Shield.",
+  "game_id": "25",
+  "author_id": "a25"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd98"
+  },
+  "id": "r26",
+  "rating": 7,
+  "content": "Jedi action and story in Star Wars Jedi: Fallen Order.",
+  "game_id": "26",
+  "author_id": "a26"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd99"
+  },
+  "id": "r27",
+  "rating": 8,
+  "content": "Violent and thrilling combat in Mortal Kombat 11.",
+  "game_id": "27",
+  "author_id": "a27"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd9a"
+  },
+  "id": "r28",
+  "rating": 9,
+  "content": "Vast open-world exploration and quests in The Elder Scrolls V: Skyrim.",
+  "game_id": "28",
+  "author_id": "a28"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd9b"
+  },
+  "id": "r29",
+  "rating": 7,
+  "content": "Action RPG with demonic battles in Diablo III.",
+  "game_id": "29",
+  "author_id": "a29"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd9c"
+  },
+  "id": "r30",
+  "rating": 8,
+  "content": "Massive multiplayer online role-playing in World of Warcraft.",
+  "game_id": "30",
+  "author_id": "a30"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd9d"
+  },
+  "id": "r31",
+  "rating": 9,
+  "content": "Open-world action in Far Cry 5.",
+  "game_id": "31",
+  "author_id": "a31"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd9e"
+  },
+  "id": "r32",
+  "rating": 7,
+  "content": "Co-op loot shooter with humor in Borderlands 3.",
+  "game_id": "32",
+  "author_id": "a32"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbd9f"
+  },
+  "id": "r33",
+  "rating": 8,
+  "content": "Emotional and intense storytelling in The Last of Us Part II.",
+  "game_id": "33",
+  "author_id": "a33"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbda0"
+  },
+  "id": "r34",
+  "rating": 7,
+  "content": "Dystopian future and cyberpunk theme in Cyberpunk 2077.",
+  "game_id": "34",
+  "author_id": "a34"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbda1"
+  },
+  "id": "r35",
+  "rating": 8,
+  "content": "Fast-paced demon-slaying action in Doom Eternal.",
+  "game_id": "35",
+  "author_id": "a35"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbda2"
+  },
+  "id": "r36",
+  "rating": 9,
+  "content": "Samurai adventure with stunning visuals in Ghost of Tsushima.",
+  "game_id": "36",
+  "author_id": "a36"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbda3"
+  },
+  "id": "r37",
+  "rating": 7,
+  "content": "Space exploration and discovery in No Man's Sky.",
+  "game_id": "37",
+  "author_id": "a37"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbda4"
+  },
+  "id": "r38",
+  "rating": 8,
+  "content": "Ninja action and challenging combat in Sekiro: Shadows Die Twice.",
+  "game_id": "38",
+  "author_id": "a38"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbda5"
+  },
+  "id": "r39",
+  "rating": 7,
+  "content": "Survival horror and creepy atmosphere in Resident Evil Village.",
+  "game_id": "39",
+  "author_id": "a39"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbda6"
+  },
+  "id": "r40",
+  "rating": 9,
+  "content": "Fast-paced time loop action in Deathloop.",
+  "game_id": "40",
+  "author_id": "a40"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbda7"
+  },
+  "id": "r41",
+  "rating": 7,
+  "content": "Magical adventures and creatures in Hogwarts Legacy.",
+  "game_id": "41",
+  "author_id": "a41"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbda8"
+  },
+  "id": "r42",
+  "rating": 8,
+  "content": "Epic space exploration in Starfield.",
+  "game_id": "42",
+  "author_id": "a42"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbda9"
+  },
+  "id": "r43",
+  "rating": 9,
+  "content": "Anticipated fantasy RPG in Elder Scrolls VI.",
+  "game_id": "43",
+  "author_id": "a43"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbdaa"
+  },
+  "id": "r44",
+  "rating": 7,
+  "content": "Mind-bending story and exploration in Bioshock Infinite.",
+  "game_id": "44",
+  "author_id": "a44"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbdab"
+  },
+  "id": "r45",
+  "rating": 8,
+  "content": "Open-world hacking and rebellion in Watch Dogs: Legion.",
+  "game_id": "45",
+  "author_id": "a45"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbdac"
+  },
+  "id": "r46",
+  "rating": 7,
+  "content": "Highly-anticipated sci-fi RPG in Starfield.",
+  "game_id": "46",
+  "author_id": "a46"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbdad"
+  },
+  "id": "r47",
+  "rating": 9,
+  "content": "Revolutionary RPG with branching storylines in Fallout 4.",
+  "game_id": "47",
+  "author_id": "a47"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbdae"
+  },
+  "id": "r48",
+  "rating": 8,
+  "content": "Open-world action in Watch Dogs: Legion.",
+  "game_id": "48",
+  "author_id": "a48"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbdaf"
+  },
+  "id": "r49",
+  "rating": 7,
+  "content": "Sci-fi action in Starfield.",
+  "game_id": "49",
+  "author_id": "a49"
+},
+{
+  "_id": {
+    "$oid": "65baa619675357d111afbdb0"
+  },
+  "id": "r50",
+  "rating": 9,
+  "content": "Magical adventures in Hogwarts Legacy.",
+  "game_id": "50",
+  "author_id": "a50"
+}]

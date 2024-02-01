@@ -1,0 +1,564 @@
+[{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc8f"
+  },
+  "id": "1",
+  "title": "Assassin's Creed Valhalla",
+  "platform": [
+    "PS5",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc90"
+  },
+  "id": "2",
+  "title": "Cyberpunk 2077",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc91"
+  },
+  "id": "3",
+  "title": "The Legend of Zelda: Breath of the Wild",
+  "platform": [
+    "Nintendo Switch"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc92"
+  },
+  "id": "4",
+  "title": "Red Dead Redemption 2",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc93"
+  },
+  "id": "5",
+  "title": "Minecraft",
+  "platform": [
+    "Various"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc94"
+  },
+  "id": "6",
+  "title": "FIFA 22",
+  "platform": [
+    "PS5",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc95"
+  },
+  "id": "7",
+  "title": "The Witcher 3: Wild Hunt",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc96"
+  },
+  "id": "8",
+  "title": "God of War",
+  "platform": [
+    "PS4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc97"
+  },
+  "id": "9",
+  "title": "GTA V",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc98"
+  },
+  "id": "10",
+  "title": "Call of Duty: Warzone",
+  "platform": [
+    "PS5",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc99"
+  },
+  "id": "11",
+  "title": "Among Us",
+  "platform": [
+    "Various"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc9a"
+  },
+  "id": "12",
+  "title": "Animal Crossing: New Horizons",
+  "platform": [
+    "Nintendo Switch"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc9b"
+  },
+  "id": "13",
+  "title": "Spider-Man: Miles Morales",
+  "platform": [
+    "PS5"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc9c"
+  },
+  "id": "14",
+  "title": "Destiny 2",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc9d"
+  },
+  "id": "15",
+  "title": "Fortnite",
+  "platform": [
+    "Various"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc9e"
+  },
+  "id": "16",
+  "title": "Halo Infinite",
+  "platform": [
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dc9f"
+  },
+  "id": "17",
+  "title": "Battlefield V",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dca0"
+  },
+  "id": "18",
+  "title": "Overwatch",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dca1"
+  },
+  "id": "19",
+  "title": "Final Fantasy VII Remake",
+  "platform": [
+    "PS4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dca2"
+  },
+  "id": "20",
+  "title": "League of Legends",
+  "platform": [
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dca3"
+  },
+  "id": "21",
+  "title": "Madden NFL 21",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dca4"
+  },
+  "id": "22",
+  "title": "Assassin's Creed Odyssey",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dca5"
+  },
+  "id": "23",
+  "title": "NBA 2K21",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dca6"
+  },
+  "id": "24",
+  "title": "Tom Clancy's Rainbow Six Siege",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dca7"
+  },
+  "id": "25",
+  "title": "Pokémon Sword and Shield",
+  "platform": [
+    "Nintendo Switch"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dca8"
+  },
+  "id": "26",
+  "title": "Star Wars Jedi: Fallen Order",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dca9"
+  },
+  "id": "27",
+  "title": "Mortal Kombat 11",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcaa"
+  },
+  "id": "28",
+  "title": "The Elder Scrolls V: Skyrim",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcab"
+  },
+  "id": "29",
+  "title": "Diablo III",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcac"
+  },
+  "id": "30",
+  "title": "World of Warcraft",
+  "platform": [
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcad"
+  },
+  "id": "31",
+  "title": "Far Cry 5",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcae"
+  },
+  "id": "32",
+  "title": "Borderlands 3",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcaf"
+  },
+  "id": "33",
+  "title": "The Last of Us Part II",
+  "platform": [
+    "PS4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcb0"
+  },
+  "id": "34",
+  "title": "Cyberpunk 2077",
+  "platform": [
+    "PS5",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcb1"
+  },
+  "id": "35",
+  "title": "Doom Eternal",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcb2"
+  },
+  "id": "36",
+  "title": "Ghost of Tsushima",
+  "platform": [
+    "PS4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcb3"
+  },
+  "id": "37",
+  "title": "No Man's Sky",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcb4"
+  },
+  "id": "38",
+  "title": "Sekiro: Shadows Die Twice",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcb5"
+  },
+  "id": "39",
+  "title": "Resident Evil Village",
+  "platform": [
+    "PS5",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcb6"
+  },
+  "id": "40",
+  "title": "Apex Legends",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcb7"
+  },
+  "id": "41",
+  "title": "Ratchet & Clank: Rift Apart",
+  "platform": [
+    "PS5"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcb8"
+  },
+  "id": "42",
+  "title": "Rainbow Six Quarantine",
+  "platform": [
+    "PS5",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcb9"
+  },
+  "id": "43",
+  "title": "Fallout 4",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcba"
+  },
+  "id": "44",
+  "title": "Watch Dogs: Legion",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcbb"
+  },
+  "id": "45",
+  "title": "Starfield",
+  "platform": [
+    "TBD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcbc"
+  },
+  "id": "46",
+  "title": "Elder Scrolls VI",
+  "platform": [
+    "TBD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcbd"
+  },
+  "id": "47",
+  "title": "Bioshock Infinite",
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcbe"
+  },
+  "id": "48",
+  "title": "Deathloop",
+  "platform": [
+    "PS5",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcbf"
+  },
+  "id": "49",
+  "title": "Hogwarts Legacy",
+  "platform": [
+    "PS5",
+    "Xbox",
+    "PC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bb5984536a1044e038dcc0"
+  },
+  "id": "50",
+  "title": "Star Wars: Knights of the Old Republic Remake",
+  "platform": [
+    "TBD"
+  ]
+}]

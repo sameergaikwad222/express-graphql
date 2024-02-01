@@ -1,0 +1,6 @@
+{
+  "database": {
+    "url": "mongodb://admin:password@localhost:27017/?authMechanism=DEFAULT",
+    "name": "expressGraphQL"
+  }
+}
